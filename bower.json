@@ -1,0 +1,22 @@
+{
+  "name": "blog-post",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Richard William <richard.wmbv@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "waypoints": "^4.0.1",
+    "jquery": "^3.2.1",
+    "animate.css": "^3.5.2"
+  }
+}
